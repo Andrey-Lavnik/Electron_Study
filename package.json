@@ -12,11 +12,11 @@
   "devDependencies": {
     "electron": "^11.1.1"
   }
-
+}
 "build": {
 
   "appId": "your.id",
-  }
+  
 
   "mac": {
 
@@ -26,4 +26,4 @@
 
 }
 
-}
+
