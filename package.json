@@ -16,6 +16,7 @@
 "build": {
 
   "appId": "your.id",
+  }
 
   "mac": {
 
